@@ -32,7 +32,7 @@ Welcome to **Orbitra**, a dynamic and fully responsive news platform dedicated t
 - **React** 🖥️
 - **React Router** 🛣️
 - **Axios** 📡
-- **Bootstrap** 🎨
+- **Tailwind** 🎨
 
 ### Backend
 - **Node.js** 🟢
